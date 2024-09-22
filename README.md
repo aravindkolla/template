@@ -1,5 +1,5 @@
 # template
-[
+'''
 import os
 from pathlib import Path
 import logging
@@ -56,4 +56,4 @@ for filepath in list_of_files:
             pass
     else:
         print(f"file is already present at: {filepath}")
-]
+'''
